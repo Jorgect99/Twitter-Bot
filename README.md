@@ -8,4 +8,8 @@ My computer is the host that publishes the frames. It does this using the schedu
 
 ![alt tag](https://i.imgur.com/iAs45Ue.png)
 
+In the trigger tabs, a configuration is established so that every 30 min a frame is published, executing the billybot.bat.
+
+![alt tag](https://i.imgur.com/QT265RE.png)
+
 
