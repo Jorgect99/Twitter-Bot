@@ -1,7 +1,7 @@
 # Twitter-Bot
  A bot in python that publishes a random frame of a random episode of the adventures of billy and mandy.
  
--Twitter Account:https://twitter.com/Bot_BillyMandy<br/><br/>
+-Twitter Account: https://twitter.com/Bot_BillyMandy<br/><br/>
 ![](https://i.imgur.com/yx0os3Y.gif)
 
 My computer is the host that publishes the frames. It does this using the scheduled tasks application of windows.
